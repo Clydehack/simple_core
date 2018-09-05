@@ -1,0 +1,41 @@
+{
+  "result": "true",
+  "data": [
+	{
+		"name": "360 旋 转",
+    "icon": "sync",
+		"code": "01",
+		"key": "01"
+	},
+	{
+		"name": "珠 宝 首 饰",
+    "icon": "pay-circle-o",
+		"code": "02",
+		"key": "02"
+	},
+	{
+		"name": "酒 类 饮 料",
+    "icon": "coffee",
+		"code": "03",
+		"key": "03"
+	},
+	{
+		"name": "白 底 商 品",
+    "icon": "code-o",
+		"code": "04",
+		"key": "04"
+	},
+	{
+		"name": "证 件 照 片",
+    "icon": "idcard",
+		"code": "05",
+		"key": "05"
+	},
+	{
+		"name": "创 意 照 片",
+    "icon": "copyright",
+		"code": "08",
+		"key": "08"
+	}
+  ]
+}
